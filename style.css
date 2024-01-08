@@ -187,3 +187,20 @@ html, body {
     color: #fff;
     text-decoration: none;
 }
+
+#subscribe {
+    padding: 20px 30px;
+    padding-bottom: 7vw;
+    background-color: black;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+#subscribe h5 {
+    opacity: .7;
+}
+
+#subscribe h3 {
+    font-size: 14px;
+    margin-top: 10px;
+}
