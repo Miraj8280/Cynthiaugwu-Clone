@@ -12,15 +12,15 @@ html, body {
 
 #main {
     width: 100%;
-    
+    background-color: black;
 }
 
 #home {
     color: #fff;
     width: 100%;
     height: 100vh;
+    position: relative;
     background-color: black;
-    text-transform: uppercase;
 } 
 
 #nav {
@@ -29,7 +29,6 @@ html, body {
     justify-content: space-between;
     width: 100%;
     padding: 20px 40px;
-    color: #fff;
 }
 
 #nav a {
@@ -45,6 +44,7 @@ html, body {
 
 #heading {
     margin-top: 100px;
+    text-transform: uppercase;
 }
 
 #heading h1{
@@ -88,6 +88,7 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    text-transform: uppercase;
 }
 
 #homefooter a {
