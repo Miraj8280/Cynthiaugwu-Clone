@@ -1,10 +1,11 @@
-1. Smooth scrolling
+1. Smooth scrolling ✅
     i) Attach locomotive scroll css from: https://github.com/locomotivemtl/locomotive-scroll/blob/master/dist/locomotive-scroll.css
     
     ii) Attach locomotive scroll min js from (Add this link to the script tag): https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.min.js 
 
     iii) Add a js code snippet from locomotive github: https://github.com/locomotivemtl/locomotive-scroll?tab=readme-ov-file#smooth
     
-2. Gsap
+2. Gsap ✅
+    i) Attach gsap script from the gsap cdn
 
 3. Scroll trigger
