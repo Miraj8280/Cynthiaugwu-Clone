@@ -20,6 +20,15 @@ html, body {
     background-color: #fff;
 }
 
+.bounding {
+    width: fit-content;
+    overflow: hidden;
+}
+
+.bounding .boundingelem {
+    transform: translateY(100%);
+}
+
 #main {
     width: 100%;
     background-color: black;
@@ -71,6 +80,9 @@ html, body {
 .blocktext {
     width: fit-content;
     /* background-color: red; */
+    display: flex;
+    flex-direction: column;
+    align-items: end;
 }
 
 .blocktext h5 {
@@ -80,6 +92,9 @@ html, body {
 }
 
 #smallheadings {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
     margin-top: 80px;
     padding-right: 36px;
     text-transform: uppercase;
